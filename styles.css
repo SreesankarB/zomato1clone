@@ -112,7 +112,7 @@ header {
 .loc_logo img{
     position: absolute;
     left: 243px;
-    top: 271px;
+    top: 284px;
     width: 28px;
     height: auto;
     z-index: 11;
@@ -126,7 +126,7 @@ header {
     z-index: 304;
     position: absolute;
     left: 37%;
-    top: 264px;
+    top: 277px;
 }
 input {
     border: none;
@@ -139,17 +139,17 @@ input {
     position: absolute;
 }
 .fname {
-    margin-top: 552.7px;
+    margin-top: 576.7px;
     margin-left: 279px;
 }
 .fname1 {
-    margin-top: 552.7px;
+    margin-top: 580.7px;
     margin-left: 529px;
 }
 .search_logo img{
     position: absolute;
     left: 492px;
-    top: 271px;
+    top: 285px;
     width: 28px;
     height: auto;
     z-index: 11;
