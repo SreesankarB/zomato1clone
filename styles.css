@@ -7,6 +7,9 @@ header {
     margin: 0;
     
 }
+.Search-Bar{
+    margin-top : 20px;
+}
 
 .first_image img {
     width: 100%;
