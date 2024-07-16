@@ -104,7 +104,7 @@ header {
     padding: 7px;
     box-sizing: border-box;
     position: absolute;
-    top: 46.8%;
+    top: 47.8%;
     margin-top: 2px;
     left: 49%;
     transform: translate(-50%, -50%);
@@ -503,7 +503,7 @@ input {
 }
 .footer_rect {
     width: 480%;
-    height: 467px;
+    height: 394px;
     background-color: #eeeeef;
     padding: 20px;
     box-sizing: border-box;
@@ -518,7 +518,7 @@ input {
     width: 153px;
     height: auto;
     margin-right: 5px;
-    top: 298.5%;
+    top: 302.5%;
     left: 5.3%;
     position: absolute;
     z-index: 20;
@@ -579,7 +579,7 @@ td {
     width: 153px;
     height: auto;
     margin-right: 5px;
-    top: 332.5%;
+    top: 351.5%;
     left: 72.3%;
     position: absolute;
     z-index: 20;
